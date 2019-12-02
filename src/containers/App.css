@@ -1,0 +1,14 @@
+
+@font-face {
+    font-family: 'Urba Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Urba Regular'), url('Urba.woff') format('woff');
+    }
+
+
+h1 {
+   font-family:'Urba Regular';
+   font-weight: 200;
+   color: white;
+}
